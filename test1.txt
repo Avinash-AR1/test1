@@ -1,1 +1,2 @@
-city: Madurai
+city1: Madurai
+city2: Chennai
